@@ -22,6 +22,12 @@ ________
 
 ## Contributing to BoxyHQ with Hacktoberfest
 
+<p align="center">
+    <a href="https://github.com/boxyhq" target="_blank"><img width="800" height="250" src="https://drive.google.com/file/d/1mcn_f9meo5qJzDoviAdBsbJRql4V9ra2/view?usp=sharing
+" alt="BoxyHQxHacktoberfest22"></a>
+</p>
+
+
 You can make both technical and non-technical contributions within BoxyHQ projects.
 
 **For technical contributions, you can contribute to following branches :**
