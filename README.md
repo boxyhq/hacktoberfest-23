@@ -16,8 +16,8 @@ ________
 
 - *Basic knowledge of Git and Github. Check out [this](https://hacktoberfest.com/participation/#beginner-resources) resource if you are a beginner in Open Source and making your contribution for first time.*
 - *Go through [BoxyHQ Docs](https://boxyhq.com/docs/)*
-- *Understand the basics of [SAML Jackson](https://boxyhq.com/docs/jackson/overview) and [Directory Sync](https://boxyhq.com/docs/jackson/overview)*
-- *Try out hosted demo showcasing the SAML IdP login flow [here](https://mocksaml.com/saml/login)*
+- *Understand the basics of [SAML SSO](https://boxyhq.com/docs/jackson/overview) and [Directory Sync](https://boxyhq.com/docs/directory-sync/overview)*
+- *Try out hosted demo showcasing the SAML IdP login flow [here](https://saml-demo.boxyhq.com)*
 - *Try out mock SAML service [here](https://mocksaml.com)*
 
 
