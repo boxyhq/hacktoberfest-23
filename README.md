@@ -30,7 +30,7 @@ You can make both technical and non-technical contributions within BoxyHQ projec
 **For technical contributions, you can contribute to following repos :**
 
 1. [SAML Jackson: SSO & Directory Sync](https://github.com/boxyhq/jackson)
-2. [SaaS Startup Kit](https://github.com/boxyhq/saas-starter-kit)
+2. [SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit)
 
 <br>
 
