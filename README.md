@@ -1,38 +1,44 @@
-# 🎃 Hacktoberfest with BoxyHQ
-This repo serves as hacktoberfest guidelines for BoxyHQ contributions.
 
-<p align="center">
-    <a href="https://github.com/boxyhq" target="_blank"><img width="800" height="400" src="https://github.com/boxyhq/hacktoberfest-22/blob/main/GitHubPost.png?raw=true" alt="BoxyHQxHacktoberfest22"></a>
-</p>
 
-________
+![hacktoberfest-23-repo](https://github.com/boxyhq/hacktoberfest-23/assets/66887028/31a42913-60c6-4635-9479-6e6fdbbac51a)
 
-## About Hacktoberfest
-Hacktoberfest is a yearly event to encourage people to contribute to open source in October. It’s a celebration of community, learning and giving back—topped off by DigitalOcean thanking participants.
+##  🚀 Hacktoberfest with BoxyHQ
+Welcome to our Hacktoberfest guide for contributing to BoxyHQ!
 
 ________
 
-## Before getting started with Contributions :
+## 🌟 About Hacktoberfest
+Hacktoberfest is an annual celebration of open source, encouraging contributions throughout October. It's a fantastic opportunity to join a vibrant community, learn, and give back, all while earning appreciation from DigitalOcean.
 
-- *Basic knowledge of Git and Github. Check out [this](https://hacktoberfest.com/participation/#beginner-resources) resource if you are a beginner in Open Source and making your contribution for first time.*
-- *Go through [BoxyHQ Docs](https://boxyhq.com/docs/)*
-- *Understand the basics of [SAML SSO](https://boxyhq.com/docs/jackson/overview) and [Directory Sync](https://boxyhq.com/docs/directory-sync/overview)*
-- *Try out hosted demo showcasing the SAML IdP login flow [here](https://saml-demo.boxyhq.com)*
-- *Try out mock SAML service [here](https://mocksaml.com)*
+________
+
+## 🌟 Before You Begin:
+
+Before diving into contributions, here are a few prerequisites:
+
+- *Basic Git and GitHub knowledge: If you're new to open source, check out [this beginner's resource](https://hacktoberfest.com/participation/#beginner-resources).*
+- *Explore BoxyHQ Docs: Familiarize yourself with our [BoxyHQ Docs](https://boxyhq.com/docs/) to understand our platform better.*
+- *SAML SSO and Directory Sync: For technical contributions, grasp the basics of[SAML SSO](https://boxyhq.com/docs/jackson/overview) and [Directory Sync](https://boxyhq.com/docs/directory-sync/overview).*
+- *Try Our Demos:*
+- - Experience the SAML IdP login flow in our  [hosted demo](https://saml-demo.boxyhq.com)
+- - Explore our mock SAML service [here](https://mocksaml.com)
 
 
-## Contributing to BoxyHQ with Hacktoberfest
+## 🌟 Contributing to BoxyHQ with Hacktoberfest
 
+We welcome both technical and non-technical contributions across various BoxyHQ projects.
 
-
-You can make both technical and non-technical contributions within BoxyHQ projects.
-
-**For technical contributions, you can contribute to following repos :**
+**For technical contributions, explore the following repositories:**
 
 1. [SAML Jackson: SSO & Directory Sync](https://github.com/boxyhq/jackson)
 2. [SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit)
 
 <br>
 
-**For non-technical contribution, you can contribute to BoxyHQ's Documentation**
-- Check out the project documentation [here](https://github.com/boxyhq/website/tree/main/docs)
+**Non-technical Contributionss**
+
+Don't worry if you're not a tech whiz! You can still be part of the Hacktoberfest fun by contributing to BoxyHQ's documentation, guides, and more. Even fixing a pesky typo can make a big difference!
+
+- Explore our documentation on GitHub [here](https://github.com/boxyhq/website/tree/main/docs)
+
+Let's make this Hacktoberfest with BoxyHQ an incredible journey, whether you're a seasoned developer or a grammar guru! 📚
