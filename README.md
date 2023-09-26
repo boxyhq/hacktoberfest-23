@@ -5,7 +5,7 @@
 ##  🚀 Hacktoberfest with BoxyHQ
 Welcome to our Hacktoberfest guide for contributing to BoxyHQ!
 
-________
+
 
 ## 🌟 About Hacktoberfest
 Hacktoberfest is an annual celebration of open source, encouraging contributions throughout October. It's a fantastic opportunity to join a vibrant community, learn, and give back, all while earning appreciation from DigitalOcean.
@@ -32,6 +32,7 @@ We welcome both technical and non-technical contributions across various BoxyHQ 
 
 1. [SAML Jackson: SSO & Directory Sync](https://github.com/boxyhq/jackson)
 2. [SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit)
+3. [BoxyHQ UI Toolkit](https://github.com/boxyhq/ui)
 
 <br>
 
