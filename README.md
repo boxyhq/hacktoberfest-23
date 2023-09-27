@@ -3,8 +3,16 @@
 ![hacktoberfest-23-repo](https://github.com/boxyhq/hacktoberfest-23/assets/66887028/31a42913-60c6-4635-9479-6e6fdbbac51a)
 
 ##  🚀 Hacktoberfest with BoxyHQ
-Welcome to our Hacktoberfest guide for contributing to BoxyHQ!
+Welcome, let's kick off Hacktoberfest 2023 with a resounding celebration!
 
+The best way to celebrate and show your support is to star [our Jackson](https://github.com/boxyhq/jackons) repo 🙂
+
+ We've thoughtfully tagged numerous repository issues (see the list below) with `hacktoberfest`, and there are more exciting tags on the way.
+
+For **Hacktoberfest 2023**, the coveted prize is an exclusive **certificate from BoxyHQ**.
+
+Participating is a breeze – just request to be assigned to one of the tagged issues. All it takes is two successfully merged Pull Requests, and as October draws to a close, your outstanding contributions will be duly rewarded.
+We welcome everyone to join in and start contributing
 
 
 ## 🌟 About Hacktoberfest
