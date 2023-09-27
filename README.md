@@ -51,3 +51,8 @@ Don't worry if you're not a tech whiz! You can still be part of the Hacktoberfes
 - Explore our documentation on GitHub [here](https://github.com/boxyhq/website/tree/main/docs)
 
 Let's make this Hacktoberfest with BoxyHQ an incredible journey, whether you're a seasoned developer or a grammar guru! 📚
+
+## 🌟 Community
+
+- Stay tuned for announcements about updates in our #hacktoberfest-23 **Community of Developers** [Discord](https://discord.boxyhq.com) channel. 
+- We're here to assist with any questions you may have, and we warmly invite you to become a part of our thriving community of developers. 
