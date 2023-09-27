@@ -5,7 +5,7 @@
 ##  🚀 Hacktoberfest with BoxyHQ
 Welcome, let's kick off Hacktoberfest 2023 with a resounding celebration!
 
-The best way to celebrate and show your support is to star [our Jackson](https://github.com/boxyhq/jackons) repo 🙂
+The best way to celebrate and show your support is to star [our Jackson](https://github.com/boxyhq/jackson) repo 🙂
 
  We've thoughtfully tagged numerous repository issues (see the list below) with `hacktoberfest`, and there are more exciting tags on the way.
 
