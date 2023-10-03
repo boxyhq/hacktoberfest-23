@@ -5,13 +5,13 @@
 ##  🚀 Hacktoberfest with BoxyHQ
 Welcome, let's kick off Hacktoberfest 2023 with a resounding celebration!
 
-The best way to celebrate Hacktoberfest with BoxyHQ and show your support is to ⭐ [our Jackson](https://github.com/boxyhq/jackson) repo. 🤩
+The best way to celebrate Hacktoberfest with BoxyHQ and show your support is to star ⭐ [our Jackson](https://github.com/boxyhq/jackson) repo. 🤩
 
  We've thoughtfully tagged numerous repository issues (see the list below) with `hacktoberfest`, and there are more exciting tags on the way.
 
 For **Hacktoberfest 2023**, the coveted prize is an exclusive **certificate from BoxyHQ**.
 
-Participating is a breeze – just request to be assigned to one of the tagged issues. All it takes is two successfully merged Pull Requests, and as October draws to a close, your outstanding contributions will be duly rewarded.
+Participating is a breeze – All it takes is two successfully merged Pull Requests, and as October draws to a close, your outstanding contributions will be duly rewarded.
 We welcome everyone to join in and start contributing
 
 
@@ -20,9 +20,14 @@ Hacktoberfest is an annual celebration of open source, encouraging contributions
 
 ________
 
-## 🌟 Before You Begin:
+## ✅ Before You Begin:
 
 Before diving into contributions, here are a few prerequisites:
+
+1. [Register to participate](https://events.mlh.io/events/10461-boxyhq-hacktoberfest-2023) at our event page in order be rewarded by BoxyHQ<br>
+Don't worry, it's quick and easy but it gives us a way to communite with you and track how many contributions you make to BoxyHQ's codebase. 
+
+2. Take a look at the following resources
 
 - *Basic Git and GitHub knowledge: If you're new to open source, check out [this beginner's resource](https://hacktoberfest.com/participation/#beginner-resources).*
 - *Explore BoxyHQ Docs: Familiarize yourself with our [BoxyHQ Docs](https://boxyhq.com/docs/) to understand our platform better.*
